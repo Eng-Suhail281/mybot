@@ -1,2 +1,2 @@
 #!/bin/bash
-python signalstyler.py
+python3.10 signalstyler.py
